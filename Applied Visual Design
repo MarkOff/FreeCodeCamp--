@@ -10,3 +10,303 @@ Task№1
 
 
 Task№2
+.fullCard {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 10px 5px;
+    padding: 4px;
+    width: 245px;
+  }
+  
+  
+Task№3
+h4 {
+    text-align: center;
+    height: 25px; 
+  }
+  
+
+Task№4
+ <p>Google was founded by Larry Page and Sergey Brin while they were Ph.D. students at <strong>Stanford University</strong>.</p>
+ 
+ 
+Task№5
+ <p>Google was founded by Larry Page and Sergey Brin while they were <u>Ph.D. students</u> at <strong>Stanford University</strong>.</p>
+ 
+ 
+Task№6
+  <p><em>Google was founded by Larry Page and Sergey Brin while they were <u>Ph.D. students</u> at <strong>Stanford University</strong></em>.</p>
+  
+  
+Task№7
+ <h4><s>Google</s>Alphabet</h4>
+  
+  
+Task№8
+<h4><s>Google</s>Alphabet</h4>
+<hr/>
+<p><em>Google was founded by Larry Page and Sergey Brin while they were <u>Ph.D. students</u> at <strong>Stanford University</strong>.</em></p>
+      
+  
+Task№9
+h4 {
+    text-align: center;
+    padding: 10px;
+    background-color: rgba(45, 45, 45, 0.1);
+  }
+  
+  
+Task№10
+    h4 {
+    text-align: center;
+    background-color: rgba(45, 45, 45, 0.1);
+    padding: 10px;
+    font-size: 27px;
+  }
+  
+  
+Task№11
+    #thumbnail {
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+  }
+  
+
+Task№12
+.links {
+    opacity: 0.7;
+  }
+  
+  
+Task№13
+ h4 {
+    text-align: center;
+    background-color: rgba(45, 45, 45, 0.1);
+    padding: 10px;
+    font-size: 27px;
+    text-transform: uppercase;
+  }
+  
+  
+Task№14
+<style>
+h1{
+  font-size: 68px;
+}
+h2{
+  font-size: 52px;
+}
+h3{
+  font-size: 40;
+}
+h4{
+  font-size: 32;
+}
+h5{
+  font-size: 21;
+}
+h6{
+  font-size: 14;
+}
+</style>
+
+
+Task№15
+<style>
+  h1 {
+    font-size: 68px;
+    font-weight: 800;
+  }
+  h2 {
+    font-size: 52px;
+    font-weight: 600;
+  }
+  h3 {
+    font-size: 40px;
+    font-weight: 500;
+  }
+  h4 {
+    font-size: 32px;
+    font-weight: 400;
+  }
+  h5 {
+    font-size: 21px;
+    font-weight: 300;
+  }
+  h6 {
+    font-size: 14px;
+    font-weight: 200;
+  }
+</style>
+
+
+Task№16
+<style>
+  p {
+    font-size: 16px;
+  }
+</style>
+<p>
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+
+
+Task№17
+<style>
+  p {
+    font-size: 16px;
+    line-height: 25px;
+  }
+</style>
+<p>
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+
+
+Task№18
+<style>
+  a {
+    color: #000;
+  }
+  a:hover {
+    color:blue;
+  };
+
+</style>
+<a href="https://freecatphotoapp.com/" target="_blank">CatPhotoApp</a>
+
+
+Task№19
+<style>
+  h2 {
+    position: relative;
+    top: 15px;
+  }
+</style>
+<body>
+  <h1>On Being Well-Positioned</h1>
+  <h2>Move me!</h2>
+  <p>I still think the h2 is where it normally sits.</p>
+</body>
+
+
+Task№19
+<head>
+<style>
+  h2 {
+    position: relative;
+    left: 15px;
+    bottom: 10px;
+  }
+</style>
+</head>
+<body>
+  <h1>On Being Well-Positioned</h1>
+  <h2>Move me!</h2>
+  <p>I still think the h2 is where it normally sits.</p>
+</body>
+
+
+Task№20
+<style>
+  #searchbar {
+    position: absolute;
+    top: 50px;
+    right: 50px;
+
+
+  }
+  section {
+    position: relative;
+  }
+</style>
+<body>
+  <h1>Welcome!</h1>
+  <section>
+    <form id="searchbar">
+      <label for="search">Search:</label>
+      <input type="search" id="search"  name="search">
+      <input type="submit"name="submit" value="Go!">
+    </form>
+  </section>
+</body>
+
+
+Task№21
+<style>
+  body {
+    min-height: 150vh;
+  }
+  #navbar {
+    position:fixed;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    background-color: #767676;
+  }
+  nav ul {
+    margin: 0px;
+    padding: 5px 0px 5px 30px;
+  }
+  nav li {
+    display: inline;
+    margin-right: 20px;
+  }
+  a {
+    text-decoration: none;
+  }
+</style>
+<body>
+  <header>
+    <h1>Welcome!</h1>
+    <nav id="navbar">
+      <ul>
+        <li><a href="">Home</a></li>
+        <li><a href="">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+  <p>I shift up when the #navbar is fixed to the browser window.</p>
+</body>
+
+
+Task№22
+<style>
+  body {
+    min-height: 150vh;
+  }
+  #navbar {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+
+
+    width: 100%;
+    background-color: #767676;
+  }
+  nav ul {
+    margin: 0px;
+    padding: 5px 0px 5px 30px;
+  }
+  nav li {
+    display: inline;
+    margin-right: 20px;
+  }
+  a {
+    text-decoration: none;
+  }
+</style>
+<body>
+  <header>
+    <h1>Welcome!</h1>
+    <nav id="navbar">
+      <ul>
+        <li><a href="">Home</a></li>
+        <li><a href="">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+  <p>I shift up when the #navbar is fixed to the browser window.</p>
+</body>
+
+
+Task№23
