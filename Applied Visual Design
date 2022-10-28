@@ -368,3 +368,16 @@ Task№24
 <div class="second"></div>
 
 
+Task№25
+<style>
+  div {
+    margin: auto;
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+
+  }
+</style>
+<div></div>
+
+
